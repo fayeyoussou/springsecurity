@@ -46,8 +46,8 @@ public class EvalsecurrityApplication implements CommandLineRunner {
 		//userdao.save(user);
 		//User 2
 		user = new User();
-		user.setNom("Ndiaye");
-		user.setPrenom("Tidjani");
+		user.setNom("FAYE");
+		user.setPrenom("Youssoupha");
 		user.setEmail("tndiaye@minfinces.sn");
 		user.setEtat(1);
 		pwd = pwdcrypt.encode("passer321!@");
